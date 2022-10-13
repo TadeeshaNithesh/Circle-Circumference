@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
     float radius, circumference;
+    count << 'This programme is created for calculate the circumference of a circle!'
     cout << "Enter radius of circle\n";
     cin >> radius;
     // Circumference of Circle = 2 X PI x Radius
